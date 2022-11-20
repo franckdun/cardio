@@ -1,3 +1,5 @@
+[![img contact](https://github.com/franckdun/cardio/blob/main/img/readme.PNG)](https://franckdun.github.io/cardio/)
+
 # "Cardio" One Page Website Template
 
 "Cardio" is a one page website template made by [PHIr](http://www.phir.co/) exclusively for Codrops.
